@@ -22,11 +22,9 @@ Clone the repository:
 git clone https://github.com/mudrikasharma0122-rgb/code-auto-refactoring-tool.git
 
 Navigate to the project folder:
-
 cd code-auto-refactoring-tool
 
 Run the program:
-
 python main.py
 
 
