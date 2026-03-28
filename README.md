@@ -44,6 +44,7 @@ code-auto-refactoring-tool/
 
 **Application**
 
+
 Helps students write clean and readable code
 
 Improves coding practices
@@ -54,6 +55,7 @@ Can be used for basic code review and optimization
 
 
 **Future Enhancements**
+
 
 Add GUI interface
 
