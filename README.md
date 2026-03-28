@@ -32,7 +32,7 @@ python main.py
  
 code-auto-refactoring-tool/
 
-│
+
 ├── main.py          # Main program file
 
 ├── refactor.py      # Refactoring logic
