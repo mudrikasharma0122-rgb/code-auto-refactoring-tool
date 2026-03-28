@@ -45,17 +45,24 @@ code-auto-refactoring-tool/
 **Application**
 
 Helps students write clean and readable code
+
 Improves coding practices
+
 Useful for beginners learning programming
+
 Can be used for basic code review and optimization
 
 
 **Future Enhancements**
 
 Add GUI interface
+
 Support multiple programming languages
+
 Advanced code optimization techniques
+
 Integration with code editors (VS Code, etc.)
+
 Real-time code analysis
 
 
