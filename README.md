@@ -33,8 +33,11 @@ python main.py
 code-auto-refactoring-tool/
 │
 ├── main.py          # Main program file
+
 ├── refactor.py      # Refactoring logic
+
 ├── utils.py         # Helper functions
+
 ├── README.md        # Project documentation
 
 
