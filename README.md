@@ -31,6 +31,7 @@ python main.py
 **Project Structure**
  
 code-auto-refactoring-tool/
+
 │
 ├── main.py          # Main program file
 
